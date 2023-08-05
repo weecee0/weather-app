@@ -12,7 +12,7 @@ By developing the Weather App, I have honed my skills in front-end development, 
 
 2.**City Weather Search**: Users can enter the name of any city in the search bar to get weather updates for that specific location. The app fetches data from the OpenWeather API and presents the weather details of the requested city.
 
-3.**Weather Details**: The Weather App presents detailed weather information, such as the current temperature, maximum and minimum temperatures for the day, humidity, wind speed, and weather conditions (e.g., sunny, rainy, cloudy).
+3.**Weather Details**: The Weather App presents detailed weather information, such as the current temperature, humidity, wind speed, and weather conditions (e.g., sunny, rainy, cloudy).
 
 4.**Responsive Design**: The app is designed to be fully responsive, ensuring a seamless user experience on various devices, including desktops, tablets, and smartphones.
 
